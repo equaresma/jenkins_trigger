@@ -1,2 +1,2 @@
 # jenkins_trigger
-jenkins test.
+jenkins test 2
